@@ -5,3 +5,5 @@ Kermit der Frosch (engl. Kermit the Frog) ist eine Hauptfigur der Muppet Show un
 * Showrunner
 * Inspizient
 * Produzent
+
+> Er versuchte, einen Haufen Verrückter dazu zu bringen, den Job tatsächlich zu erledigen.
